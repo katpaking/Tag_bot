@@ -1,0 +1,100 @@
+https://news.daum.net/breakingnews/ - 최신
+https://news.daum.net/breakingnews/society - 사회 
+https://news.daum.net/breakingnews/society/affair - 사회 사건 사고
+https://news.daum.net/breakingnews/society/people - 사회 인물
+https://news.daum.net/breakingnews/society/education - 사회 교육
+https://news.daum.net/breakingnews/society/media - 사회 미디어
+https://news.daum.net/breakingnews/society/woman - 사회 여성
+https://news.daum.net/breakingnews/society/welfare - 사회 복지
+https://news.daum.net/breakingnews/society/others - 사회 사회일반
+https://news.daum.net/breakingnews/society/labor - 사회 노동
+https://news.daum.net/breakingnews/society/environment - 사회 환경
+https://news.daum.net/breakingnews/society/nation - 사회 전국
+https://news.daum.net/breakingnews/society/nation/seoul - 사회 서울
+https://news.daum.net/breakingnews/society/nation/metro - 사회 수도권
+https://news.daum.net/breakingnews/society/nation/gangwon - 사회 강원
+https://news.daum.net/breakingnews/society/nation/chungcheong - 사회 충청
+https://news.daum.net/breakingnews/society/nation/gyeongsang - 사회 경상
+https://news.daum.net/breakingnews/society/nation/jeolla - 사회 전라
+https://news.daum.net/breakingnews/society/nation/jeju - 사회 제주
+https://news.daum.net/breakingnews/society/nation/others - 사회 지역일반
+https://news.daum.net/breakingnews/politics - 정치 
+https://news.daum.net/breakingnews/politics/administration - 정치 행정 지자체
+https://news.daum.net/breakingnews/politics/assembly - 정치 국회 정당
+https://news.daum.net/breakingnews/politics/north - 정치 북한
+https://news.daum.net/breakingnews/politics/others - 정치 정치일반
+https://news.daum.net/breakingnews/politics/dipdefen - 정치 외교 국방
+https://news.daum.net/breakingnews/politics/president - 정치 대통령실
+https://news.daum.net/breakingnews/economic - 경제 
+https://news.daum.net/breakingnews/economic/finance - 경제 금융
+https://news.daum.net/breakingnews/economic/industry - 경제 기업산업
+https://news.daum.net/breakingnews/economic/employ - 경제 취업직장인
+https://news.daum.net/breakingnews/economic/others - 경제 경제일반
+https://news.daum.net/breakingnews/economic/autos - 경제 자동차
+https://news.daum.net/breakingnews/economic/stock - 경제 주식
+https://news.daum.net/breakingnews/economic/stock/market - 경제 시황분석
+https://news.daum.net/breakingnews/economic/stock/publicnotice - 경제 공시
+https://news.daum.net/breakingnews/economic/stock/world - 경제 해외증시
+https://news.daum.net/breakingnews/economic/stock/bondsfutures - 경제 채권선물
+https://news.daum.net/breakingnews/economic/stock/fx - 경제 외환
+https://news.daum.net/breakingnews/economic/stock/others - 경제 주식일반
+https://news.daum.net/breakingnews/economic/estate - 경제 부동산
+https://news.daum.net/breakingnews/economic/consumer - 경제 생활경제
+https://news.daum.net/breakingnews/economic/world - 경제 국제경제
+https://news.daum.net/breakingnews/foreign - 국제 
+https://news.daum.net/breakingnews/foreign/asia - 국제 아시아 대양주
+https://news.daum.net/breakingnews/foreign/america - 국제 미국 아메리카
+https://news.daum.net/breakingnews/foreign/europe - 국제 유럽
+https://news.daum.net/breakingnews/foreign/africa - 국제 중동 아프리카
+https://news.daum.net/breakingnews/foreign/others - 국제 국제일반
+https://news.daum.net/breakingnews/foreign/englishnews - 국제 영어뉴스
+https://news.daum.net/breakingnews/foreign/topic - 국제 해외화제
+https://news.daum.net/breakingnews/foreign/japan - 국제 일본
+https://news.daum.net/breakingnews/foreign/china - 국제 중국
+https://news.daum.net/breakingnews/culture - 문화 
+https://news.daum.net/breakingnews/culture/health - 문화 건강
+https://news.daum.net/breakingnews/culture/life - 문화 생활정보
+https://news.daum.net/breakingnews/culture/art - 문화 공연 전시
+https://news.daum.net/breakingnews/culture/book - 문화 책
+https://news.daum.net/breakingnews/culture/leisure - 문화 여행레져
+https://news.daum.net/breakingnews/culture/others - 문화 문화생활일반
+https://news.daum.net/breakingnews/culture/weather - 문화 날씨
+https://news.daum.net/breakingnews/culture/fashion - 문화 뷰티 패션
+https://news.daum.net/breakingnews/culture/home - 문화 가정 육아
+https://news.daum.net/breakingnews/culture/food - 문화 음식 맛집
+https://news.daum.net/breakingnews/culture/religion - 문화 종교
+https://news.daum.net/breakingnews/entertain - 연예 
+https://news.daum.net/breakingnews/entertain/broadcast - 연예 방송
+https://news.daum.net/breakingnews/entertain/music - 연예 가요음악
+https://news.daum.net/breakingnews/entertain/movie - 연예 영화
+https://news.daum.net/breakingnews/entertain/abroad - 연예 해외연예
+https://news.daum.net/breakingnews/entertain/drama - 연예 드라마
+https://news.daum.net/breakingnews/entertain/variety - 연예 예능
+https://news.daum.net/breakingnews/entertain/topic - 연예 연예가화제
+https://news.daum.net/breakingnews/entertain/others - 연예 연예일반
+https://news.daum.net/breakingnews/sports - 스포츠 
+https://news.daum.net/breakingnews/sports/worldbaseball - 스포츠 해외야구
+https://news.daum.net/breakingnews/sports/soccer - 스포츠 축구
+https://news.daum.net/breakingnews/sports/baseball - 스포츠 야구
+https://news.daum.net/breakingnews/sports/basketball - 스포츠 농구
+https://news.daum.net/breakingnews/sports/others - 스포츠 스포츠일반
+https://news.daum.net/breakingnews/sports/esports - 스포츠 e스포츠
+https://news.daum.net/breakingnews/sports/golf - 스포츠 골프
+https://news.daum.net/breakingnews/sports/worldsoccer - 스포츠 해외축구
+https://news.daum.net/breakingnews/sports/volleyball - 스포츠 배구
+https://news.daum.net/breakingnews/digital - IT 
+https://news.daum.net/breakingnews/digital/internet - IT 인터넷
+https://news.daum.net/breakingnews/digital/science - IT 과학
+https://news.daum.net/breakingnews/digital/game - IT 게임
+https://news.daum.net/breakingnews/digital/it - IT 휴대폰통신
+https://news.daum.net/breakingnews/digital/device - IT IT기기
+https://news.daum.net/breakingnews/digital/mobile - IT 통신 모바일
+https://news.daum.net/breakingnews/digital/software - IT 소프트웨어
+https://news.daum.net/breakingnews/digital/others - IT Tech일반
+https://news.daum.net/breakingnews/editorial - 칼럼 
+https://news.daum.net/breakingnews/editorial/column - 칼럼 칼럼
+https://news.daum.net/breakingnews/editorial/editorial - 칼럼 사설
+https://news.daum.net/breakingnews/editorial/opinion - 칼럼 여론
+https://news.daum.net/breakingnews/editorial/cartoon - 칼럼 만평
+https://news.daum.net/breakingnews/press - 보도자료
+https://news.daum.net/breakingnews/botnews - 자동생성기사
