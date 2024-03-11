@@ -1,8 +1,7 @@
 
 
 ```
-newsList의 데이터는 news02에서
-selectAll 데이터는 provided_time이 없어 일단 news01
+
 ```
 
 
